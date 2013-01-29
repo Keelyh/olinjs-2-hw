@@ -7,6 +7,7 @@ exports.list = function(req, res){
   res.send("respond with a resource");
 };
 
+
 exports.new = function (req, res) {
 	/*var text = "";
 	var possible = "abcdefghijklmnopqrstuvwxyz";
